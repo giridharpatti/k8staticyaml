@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 426520945275.dkr.ecr.us-east-2.amazonaws.com/static:latest
+        image: 426520945275.dkr.ecr.us-east-2.amazonaws.com/static:number
         ports:
         - containerPort: 80
